@@ -28,7 +28,6 @@ Test the C Program for the desired output.
 
 
 
-```
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -46,7 +45,7 @@ int main() {
         wait(NULL); 
     }
 }
-```
+
 
 
 
@@ -66,7 +65,7 @@ int main() {
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
-```
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
@@ -108,7 +107,7 @@ int main() {
     return 0;
 }
 
-```
+
 
 
 
